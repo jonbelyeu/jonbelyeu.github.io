@@ -43,5 +43,5 @@ ul.posts li {
 }
 
 .container {
-  background-image: url("/images/utah.jpg");
+  background-image: url(/images/utah.jpg);
 }
