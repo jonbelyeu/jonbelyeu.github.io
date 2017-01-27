@@ -49,5 +49,5 @@ ul.posts li {
 }
 
 .blurb {
-  
+  display: -webkit-inline-box;
 }
