@@ -78,7 +78,7 @@ ul#menu li {
 .profile_img {
   width:300px;
 }
-/*.red-orange-brown {
+.red-orange-brown {
   background-image: linear-gradient(to right, red, orange 50%, brown);
   color: transparent;
   -webkit-background-clip: text;
@@ -89,4 +89,4 @@ ul#menu li {
   color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
-}*/
+}
