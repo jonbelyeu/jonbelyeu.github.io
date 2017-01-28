@@ -61,5 +61,10 @@ ul#menu li {
 
 .personal-info {
   color: antiquewhite;
-  display: block;
+  display: -webkit-box;
+}
+
+.textual_info {
+  margin-left: 20px;
+  font-size: 20px;
 }
