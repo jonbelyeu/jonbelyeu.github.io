@@ -68,3 +68,7 @@ ul#menu li {
   margin-left: 20px;
   font-size: 20px;
 }
+
+.profile_img {
+  width:300px;
+}
