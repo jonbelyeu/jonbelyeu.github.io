@@ -56,6 +56,10 @@ ul.menu li {
     font-size: 36px;
 }
 
+ul.menu  {
+  list-style-image: url('/images/favico.ico.');
+}
+
 .personal-info {
   color: antiquewhite;
   display: -webkit-box;
