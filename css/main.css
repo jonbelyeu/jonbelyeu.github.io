@@ -54,9 +54,11 @@ ul.posts li {
 
 ul#menu li {
     font-size: 36px;
-    columns: 2;
-    -webkit-columns: 2;
-    -moz-columns: 2;
+}
+ul li{
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
 }
 
 .personal-info {
@@ -77,16 +79,4 @@ ul#menu li {
 
 .profile_img {
   width:300px;
-}
-.red-orange-brown {
-  background-image: linear-gradient(to right, red, orange 50%, brown);
-  color: transparent;
-  -webkit-background-clip: text;
-  background-clip: text;
-}
-.green-yellowgreen-yellow-gold {
-  background-image: linear-gradient(to right, green, yellowgreen 33%, yellow 66%, gold);
-  color: transparent;
-  -webkit-background-clip: text;
-  background-clip: text;
 }
