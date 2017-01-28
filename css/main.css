@@ -54,4 +54,7 @@ ul.posts li {
 
 ul#menu li {
     font-size: 20px;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
 }
