@@ -71,6 +71,9 @@ ul#menu li {
   font-size: 20px;
   margin-top:auto;
 }
+.textual_info h2 {
+  margin-bottom:auto;
+}
 
 .profile_img {
   width:300px;
