@@ -51,3 +51,8 @@ ul.posts li {
 .blurb {
   display: -webkit-inline-box;
 }
+
+ul#menu li {
+    display:inline;
+    font-size: 20px;
+}
