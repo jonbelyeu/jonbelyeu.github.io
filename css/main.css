@@ -58,3 +58,8 @@ ul#menu li {
     -webkit-columns: 2;
     -moz-columns: 2;
 }
+
+.personal-info {
+  color: antiquewhite;
+  display: block;
+}
